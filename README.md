@@ -1,5 +1,5 @@
 # Projects-Java
 My List Projects Java
 
-# List :
+# List Projects
 - Aplikasi Pembelian Barang
